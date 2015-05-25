@@ -1,5 +1,5 @@
 require_relative '../lib/003_methods.rb'
-require 'pry'
+#require 'pry'
 describe "Methods" do
 
   school = { 
